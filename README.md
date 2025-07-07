@@ -9,7 +9,7 @@ All projects are built using **Tinkercad simulations** and/or the **Arduino IDE*
 | Project Name                      | Description                                               | Tinkercad Link |
 |----------------------------------|-----------------------------------------------------------|----------------|
 | Traffic Light Signal Simulation  | LED traffic signal using timing logic and digital pins    | https://www.tinkercad.com/things/kNWa8LVey4y-traffic-light-simulation/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=6ePFJLRuzrfA3HjLLMua-yFvaCeLPlMAAp5n5HMNsPk |
-| LED-Buzzer Tone Control          | Different buzzer tones on each LED signal state           |https://www.tinkercad.com/things/dMS8cOtoRXx/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=sdSPSUoEhvzGxgftslwOXfRx0botx2ykfY775QBcqt8|
+| LED-Buzzer Tone Control          | Different buzzer tones on each LED signal state           |https://www.tinkercad.com/things/dMS8cOtoRXx-incredible-vihelmo/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=sdSPSUoEhvzGxgftslwOXfRx0botx2ykfY775QBcqt8|
 
 ## 🔧 Tools & Platforms Used
 
